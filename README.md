@@ -8,7 +8,7 @@ A CSE student from Bangladesh who loves turning ideas into things people can act
 
 I'm a fourth-year Computer Science and Engineering student, and I learn best by building. Most of my projects start with a simple question, "what if this existed?", and end with a live link I can share.
 
-Right now I'm learning backend development (Node.js + MongoDB) with Programming Hero, and I'm looking for my first opportunity as a **[internship / junior developer / freelance]** web developer.
+Right now I'm learning backend development (Node.js + MongoDB) with Programming Hero, and I'm looking for opportunities as a **junior developer / freelancer** in web development.
 
 I also make AI-generated videos inspired by Bangladeshi culture, because code isn't the only way I like to create. 🎬
 
@@ -22,23 +22,23 @@ A price tracker for daily essentials in Bangladesh. It has email and Google logi
 
 **🎵 [Songify](https://asad-talkify.vercel.app)**
 Upload an MP3 and an image, and it turns them into an audio-visualizer video right in your browser.
-`JavaScript` · `Web Audio API` · `Canvas` · [Code](https://github.com/ahabib69/REPO-NAME)
+`JavaScript` · `Web Audio API` · `Canvas` · [Code](https://github.com/ahabib69?tab=repositories)
 
 **📖 Noor**
 A calm Qur'an listening web app, built so anyone can listen to any sura easily.
-`HTML` · `CSS` · `JavaScript` · [Code](https://github.com/ahabib69/REPO-NAME)
+`HTML` · `CSS` · `JavaScript` · [Code](https://github.com/ahabib69?tab=repositories)
 
 **🎤 MC Byte**
 An AI rapper chatbot that listens to the beat and raps back with browser text-to-speech.
-`JavaScript` · `TypeScript` · `Web Audio API` · [Code](https://github.com/ahabib69/REPO-NAME)
+`JavaScript` · `TypeScript` · `Web Audio API` · [Code](https://github.com/ahabib69?tab=repositories)
 
 **🗄️ MediaHub Pro**
 A full-stack media platform with a Node.js and Express backend and an SQLite database.
-`Node.js` · `Express` · `SQLite` · [Code](https://github.com/ahabib69/REPO-NAME)
+`Node.js` · `Express` · `SQLite` · [Code](https://github.com/ahabib69?tab=repositories)
 
 **🧠 Algo Blueprint**
 An interactive visualizer that shows how algorithms work, step by step.
-`TypeScript` · [Code](https://github.com/ahabib69/REPO-NAME)
+`TypeScript` · [Code](https://github.com/ahabib69?tab=repositories)
 
 ---
 
@@ -69,7 +69,7 @@ An interactive visualizer that shows how algorithms work, step by step.
 
 If you're hiring, working on something fun, or just want to share advice with someone starting out, I'd love to hear from you.
 
-📫 **Email:** YOUR-EMAIL
-💼 **LinkedIn:** [YOUR-NAME](https://linkedin.com/in/YOUR-LINKEDIN)
+📫 **Email:** mdasadhabib69@gmail.com
+💼 **LinkedIn:** [Md Asad Habibun Nabi](https://www.linkedin.com/in/md-asad-habib-561a0a374/)
 
 Thanks for stopping by. Have a great day! 🌿
